@@ -267,7 +267,7 @@ body {
 /* SECTION: Project */
 #projects {
 
-    background-image: url(./Images/coding.jpg);
+    background-image: url("./Images/coding.jpg");
     height: 135vh;
 }
 
@@ -555,7 +555,7 @@ footer p {
     }
     #projects {
 
-        background-image: url(./Images/coding.jpg);
+        background-image: url("./Images/coding.jpg");
         height: 137vh;
     }
     #about h3 {
@@ -745,7 +745,7 @@ footer p {
     }
     #projects {
 
-        background-image: url(./Images/coding.jpg);
+        background-image: url("./Images/coding.jpg");
         height: 130vh;
     }
     #about h3 {
