@@ -106,7 +106,7 @@ body {
 /* Showcase Area */
 #showcase {
 
-    background-image: url(../sky.jpg) no-repeat center center/cover;
+    background-image: url(./Images/sky.jpg) no-repeat center center/cover;
     height: 91.7vh;
 }
 
@@ -267,7 +267,7 @@ body {
 /* SECTION: Project */
 #projects {
 
-    background-image: url(../coding.jpg);
+    background-image: url(./Images/coding.jpg);
     height: 135vh;
 }
 
@@ -555,7 +555,7 @@ footer p {
     }
     #projects {
 
-        background-image: url(../coding.jpg);
+        background-image: url(./Images/coding.jpg);
         height: 137vh;
     }
     #about h3 {
@@ -745,7 +745,7 @@ footer p {
     }
     #projects {
 
-        background-image: url(../coding.jpg);
+        background-image: url(./Images/coding.jpg);
         height: 130vh;
     }
     #about h3 {
